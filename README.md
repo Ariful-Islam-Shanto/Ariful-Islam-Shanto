@@ -11,17 +11,21 @@
   </a>
 </p>
 
-<!--
-**Ariful-Islam-Shanto/Ariful-Islam-Shanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ariful-Islam-Shanto&theme=algolia"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ariful-Islam-Shanto&theme=algolia"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ariful-Islam-Shanto&theme=algolia&utcOffset=8"/>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## Current Status : 
+- 🔭  I’m currently working on my skills as a junior frontend developer and applying my skills in HTML, CSS, JavaScript, React, Express, and MongoDB to build dynamic and responsive web applications.
+- 🌱  I’m currently learning frontend technologies and exploring frameworks and libraries.
+- 👯  I’m looking to collaborate on React-based projects and full-stack development opportunities where I can contribute and continue learning alongside experienced developers.
+- 🤔  I’m looking for help with best practices in frontend development, seeking guidance to enhance my coding and design skills.
+
