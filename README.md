@@ -1,9 +1,9 @@
 ![Alt text](cover.gif)
-Current State
+## Current Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ariful-Islam-Shanto&theme=github-dark-blue&hide_border=true&card_width=900)](https://git.io/streak-stats)
 
-Familiar Technologies: 
+## Familiar Technologies: 
 
 <p align="center">
   <a href="https://skillicons.dev">
