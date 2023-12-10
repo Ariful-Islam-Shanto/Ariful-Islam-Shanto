@@ -4,14 +4,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ariful-Islam-Shanto&theme=github-dark-blue&hide_border=true&card_width=900)](https://git.io/streak-stats)
 
 
-<p align="center">
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ariful-Islam-Shanto&theme=algolia"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ariful-Islam-Shanto&theme=algolia"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ariful-Islam-Shanto&theme=algolia&utcOffset=8"/>
-</p>
-
 ## Familiar Technologies: 
 
 <p align="center">
@@ -19,8 +11,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,react,mongodb,express,nodejs,tailwind,mui&perline=3&theme=dark" />
   </a>
 </p>
-
-
 
 ## Current Status : 
 - ### 🔭  I’m currently working on my skills as a junior frontend developer and applying my skills in HTML, CSS, JavaScript, React, Express, and MongoDB to build dynamic and responsive web applications.
@@ -59,3 +49,11 @@ Fusion Hub is an exciting fashion and apparel e-commerce website that brings tog
 for storing and managing product and user data.
 
 Feel free to explore Fusion Hub and experience the seamless integration of these technologies in creating an enjoyable shopping environment.
+
+<p align="center">
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ariful-Islam-Shanto&theme=algolia"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ariful-Islam-Shanto&theme=algolia"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ariful-Islam-Shanto&theme=algolia&utcOffset=8"/>
+</p>
