@@ -3,6 +3,15 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ariful-Islam-Shanto&theme=github-dark-blue&hide_border=true&card_width=900)](https://git.io/streak-stats)
 
+<p align="center">
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ariful-Islam-Shanto&theme=algolia"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ariful-Islam-Shanto&theme=algolia"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ariful-Islam-Shanto&theme=algolia&utcOffset=8"/>
+</p>
+
+
 
 ## Familiar Technologies: 
 
@@ -137,11 +146,3 @@ Check out the live demo of Click Dwells [here](https://click-dwells.web.app/).
 - **Database:** **Firebase** for storing and managing real estate property information.
 - **Routing:** **React Router DOM** for handling navigation within the application.
 
-
-<p align="center">
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ariful-Islam-Shanto&theme=algolia"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ariful-Islam-Shanto&theme=algolia"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ariful-Islam-Shanto&theme=algolia&utcOffset=8"/>
-</p>
