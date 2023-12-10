@@ -50,7 +50,7 @@ for storing and managing product and user data.
 
 Feel free to explore Fusion Hub and experience the seamless integration of these technologies in creating an enjoyable shopping environment.
 
-<h1 align="Left">1. Job Wave - (A Job Search and Posting Platform)</h1>
+<h1 align="Left">2. Job Wave - (A Job Search and Posting Platform)</h1>
 
 <p align="left">
   [Live Demo](https://dazzling-cendol-e382a5.netlify.app/)
