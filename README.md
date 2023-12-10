@@ -21,7 +21,7 @@
 
 # Projects :
 
- ## 1. Fusion Hub - (Fashion and Apparel E-commerce Website.)
+ # 1. Fusion Hub - (Fashion and Apparel E-commerce Website.)
 
 ### What is it about?
 Fusion Hub is an exciting fashion and apparel e-commerce website that brings together six renowned brands in one stylish platform.To explore the latest fashion trends, shop for your favorite products, and enjoy a seamless shopping experience.
@@ -94,6 +94,49 @@ Job Wave is a web-based platform designed to streamline the job search, applicat
 - **Styling:** **Tailwind CSS** and **DaisyUI** for creating a modern and visually appealing design.
 - **Authentication:** User authentication is implemented using Firebase authentication.
 - **Database:** Firebase is used as the database for storing user data, job listings, and application information.
+
+# 3. Click Dwells - (Real Estate Platform)
+
+## Live Demo
+
+Check out the live demo of Click Dwells [here](https://click-dwells.web.app/).
+
+## Overview
+
+ Click Dwells, a comprehensive solution for buying, selling, and managing real estate properties. The platform caters to three main roles: **User**, **Agent**, and **Admin**.
+
+## Features
+
+1. **User Interaction:**
+    - Users can explore and add properties to their wishlist.
+    - Formal offers can be submitted, and accepted offers lead to property purchases.
+
+2. **Agent Dashboard:**
+    - Agents manage their properties through a dedicated dashboard.
+    - Add, modify, and respond to offers from potential buyers.
+
+3. **Admin Control:**
+    - Admins verify listings, showcase properties, and manage user roles.
+    - Control over promoting users to agents or flagging agents as fraudulent.
+
+4. **Payment Integration:**
+    - Secure online transactions allow users to purchase properties via card.
+
+5. **User Management:**
+    - Admins manage user accounts, promoting users to agents or taking actions against fraudulent activities.
+
+
+## Technologies Used
+
+- **Frontend:** **React.js** with **Vite** for a fast and efficient development experience.
+- **State Management:** **React Query** for managing state and fetching data.
+- **UI Components:** **DaisyUI** for building UI components in Tailwind CSS.
+- **Styling:** **Tailwind CSS** for a utility-first and responsive design approach.
+- **Animation:** **Lottie React** for adding animated elements to the UI.
+- **Payment Integration:** **Stripe** for secure online transactions.
+- **Database:** **Firebase** for storing and managing real estate property information.
+- **Routing:** **React Router DOM** for handling navigation within the application.
+
 
 <p align="center">
 <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ariful-Islam-Shanto&theme=algolia"/>
