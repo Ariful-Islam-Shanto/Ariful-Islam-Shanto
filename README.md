@@ -1,4 +1,5 @@
-![Alt text](cover.gif)
+
+![Alt text](cover.jpg)
 <br>
 # Current Stats :
 
